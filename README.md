@@ -20,5 +20,10 @@ The dataset is available on OpenNeuro: (URL)
 [neuro/run_mriqc.sh](https://github.com/univiemops/spider20-fmri-data/blob/main/neuro/run_mriqc.sh) is used to assess the quality of the fMRI data. It runs through the defalut mriqc (version 1.4.0) pipeline to compute image quality metrics. \
 [neuro/image_quality_plot.R](https://github.com/univiemops/spider20-fmri-data/blob/main/neuro/image_quality_plot.R) is the script that generated the quality control figures we plotted in the paper. It replotted the results from mriqc to show the temporal SNR of each run across all participants and framewise displacement of each run across all participants.
 
+## General linear model analysis
+[glm/smoothing_batch.m](https://github.com/univiemops/spider20-fmri-data/blob/main/glm/smoothing_batch.m) smoothes functional scans with SPM12.\
+[glm/first_level.m](https://github.com/univiemops/spider20-fmri-data/blob/main/glm/first_level.m) performs first level general linear model analysis with SPM12.\
+[glm/second_level.m](https://github.com/univiemops/spider20-fmri-data/blob/main/glm/second_level.m) performs second level general linear model analysis with SPM12.\
+The [glm/getSubID.m](https://github.com/univiemops/spider20-fmri-data/blob/main/glm/getSubID.m) function returns the participants IDs, and the [glm/getOnsets.m](https://github.com/univiemops/spider20-fmri-data/blob/main/glm/getOnsets.m) function returns the onsets of the stimuli.
 
 
