@@ -18,8 +18,7 @@ participant \
   -w $workdir \
  --fs-license-file $fslicdir \
  --fs-no-reconall \
- --output-spaces MNI152NLin2009cAsym MNI152NLin6Asym T1w \
- --use-aroma \
+ --output-spaces MNI152NLin2009cAsym T1w \
  --stop-on-first-crash \
  --nthreads $nthreads \
  --omp-nthreads $ompnthreads \
