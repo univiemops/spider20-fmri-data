@@ -1,6 +1,6 @@
 # "SpiDa" - an arachnophobia dataset including fMRI and behavioural data 
 
-This repository contains scripts for behavioral data from 49 participants performing behavioral avoidance tasks (BAT) and a passive viewing task of spider images in the fMRI scanner. These scripts are associated with the manuscript 'SpiDa-MRI, behavioral and (f)MRI data of adults with fear of spiders'. If you use the dataset or associated code, please cite the following paper: 
+This repository contains scripts for behavioral data from 49 participants performing behavioral avoidance tasks (BAT) and a passive viewing task of spider images in the fMRI scanner. These scripts are associated with the manuscript 'SpiDa-MRI: behavioral and (f)MRI data of adults with fear of spiders'. If you use the dataset or associated code, please cite the following paper: 
 
 
 ## Cloning the Repository and Downloading the Data 
