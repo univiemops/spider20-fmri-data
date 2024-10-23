@@ -8,7 +8,7 @@ This repository contains scripts for behavioral data from 49 participants perfor
 To clone this repository run:  
 `$ git clone https://github.com/univiemops/spider20-fmri-data.git` 
 
-The dataset is available on OpenNeuro: (URL)
+The dataset is available on OpenNeuro: (https://openneuro.org/datasets/ds004630)
 
 ## Experiment presentations
 [exp/spider20_v4.py](https://github.com/univiemops/spider20-fmri-data/blob/main/exp/spider20_v4.py) contains a PsychoPy script to present spider images during the fMRI scan. \
