@@ -2,6 +2,7 @@
 
 This repository contains scripts for behavioral data from 49 participants performing behavioral avoidance tasks (BAT) and a passive viewing task of spider images in the fMRI scanner. These scripts are associated with the manuscript 'SpiDa-MRI: behavioral and (f)MRI data of adults with fear of spiders'. If you use the dataset or associated code, please cite the following paper: 
 
+Zhang, M., Karner, A., Kostorz, K. et al. SpiDa-MRI: behavioral and (f)MRI data of adults with fear of spiders. Sci Data 12, 284 (2025). https://doi.org/10.1038/s41597-025-04569-w
 
 ## Cloning the Repository and Downloading the Data 
  
